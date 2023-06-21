@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C5235E5-E509-479B-A1B2-2F219C7EC8E1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31D90B84-C518-44EF-BECA-E2D67659C3F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch Chef/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "31D90B84-C518-44EF-BECA-E2D67659C3F0 - ebb7b86960e7da39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_Chef.IngredientView.body.getter : some"
+                  moduleName = "Fetch Chef"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/croissants/Desktop/Fetch%20Coding%20Challenge/Fetch%20IOS%20Coding%20Challenge/Fetch%20Chef/Fetch%20Chef/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "31D90B84-C518-44EF-BECA-E2D67659C3F0 - f558c727e518d343"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_Chef.ContentView.init() -&gt; Fetch_Chef.ContentView"
+                  moduleName = "Fetch Chef"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/croissants/Desktop/Fetch%20Coding%20Challenge/Fetch%20IOS%20Coding%20Challenge/Fetch%20Chef/Fetch%20Chef/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "31D90B84-C518-44EF-BECA-E2D67659C3F0 - 566f85c271a43933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fetch_Chef.ContentView.init(viewModel: @autoclosure () -&gt; Fetch_Chef.ViewModel) -&gt; Fetch_Chef.ContentView"
+                  moduleName = "Fetch Chef"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/croissants/Desktop/Fetch%20Coding%20Challenge/Fetch%20IOS%20Coding%20Challenge/Fetch%20Chef/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FC4954F-FE79-42C5-B888-F8C242C70AAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fetch Chef/ModelMeal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
